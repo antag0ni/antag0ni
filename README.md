@@ -9,7 +9,7 @@
     <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" alt="Email" /></a> -->
     <a href="https://linkedin.com/in/gionatan-conti"><img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzg5YjRmYSI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTIgMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0yVjVjMC0xLjEtLjktMi0yLTJ6TTkgMTdINlYxMGgzdjd6TTcuNSA4LjNjLTEgMC0xLjgtLjgtMS44LTEuOHMuOC0xLjggMS44LTEuOCAxLjguOCAxLjggMS44LS44IDEuOC0xLjggMS44ek0xOCAxN2gtM3YtMy44YzAtLjktLjMtMS41LTEuMS0xLjUtLjYgMC0xIC40LTEuMi44LS4xLjItLjEuNC0uMS42VjE3aC0zVjEwaDIuOHYxYzQuNC0uNyAxLjEtMS4yIDIuNC0xLjIgMS43IDAgMyAxLjEgMyAzLjVWMXd6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
     <a href="https://tryhackme.com/p/antag0ni"><img src="https://img.shields.io/badge/TryHackMe-1e1e2e?style=for-the-badge&logo=tryhackme&logoColor=a6e3a1" alt="TryHackMe" /></a>
-    <a href="ttps://app.hackthebox.com/profile/antag0ni"><img src="https://img.shields.io/badge/HackTheBox-1e1e2e?style=for-the-badge&logo=hackthebox&logoColor=a6e3a1" alt="HackTheBox" /></a>
+    <a href="https://profile.hackthebox.com/profile/01a0dd14-ff42-71cf-b74c-68fcf6cd306d"><img src="https://img.shields.io/badge/HackTheBox-1e1e2e?style=for-the-badge&logo=hackthebox&logoColor=a6e3a1" alt="HackTheBox" /></a>
   </p>
 </div>
 
