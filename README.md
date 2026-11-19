@@ -17,7 +17,7 @@
 
 ### About me
 - BSc Student in Computer Engineering @ UNISA
-- Focused on **Cybersecurity, Malware Development & Reverse Engineering**
+- Focused on learning **Cybersecurity, Malware Development & Reverse Engineering**
 
 ---
 
